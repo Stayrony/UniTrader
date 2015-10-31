@@ -55,53 +55,35 @@ The Information Panel displays current information regarding the usage of your f
 
 .. image:: /images/windows/account-information-panel/account-information-panel-1.png
 
-|
+|img-account-information-panel-2| **Accounts** – Displays the account which is currently logged in on the platform.
 
-.. image:: /images/windows/account-information-panel/account-information-panel-2.png
-   :align: left
+|img-account-information-panel-3| If you have multiple accounts you can open the **drop-down** list next to accounts and choose the account you want to view.
 
-| **Accounts** – Displays the account which is currently logged in on the platform.
-|
+|img-account-information-panel-4| **Balance** – Displays the balance in your trading account.
 
-.. image:: /images/windows/account-information-panel/account-information-panel-3.png
-   :align: left
+|img-account-information-panel-5| **Equity** – Displays the balance taking into account profit and loss on all open positions.
 
-|
-|
-| If you have multiple accounts you can open the **drop-down** list next to accounts and choose the account you want to view.
-|
-|
-|
+        *Calculation*:	**Equity** = Balance + Summary P/L.
 
-.. image:: /images/windows/account-information-panel/account-information-panel-4.png
-   :align: left
+|img-account-information-panel-6| **Used Margin** – The amount of money in your account that is currently used to keep positions open.
 
-| **Balance** – Displays the balance in your trading account.
-|
+        *Calculation*:	**Used Margin** = ∑(open positions) Margin.
 
-.. image:: /images/windows/account-information-panel/account-information-panel-5.png
-   :align: left
+|img-account-information-panel-7| **Usable Margin** – The amount that is currently available to open new positions; note that if you are gaining or losing on an open positions, the amount of usable margin will differ accordingly;
 
-| **Equity** – Displays the balance taking into account profit and loss on all open positions.
-| *Calculation*:	**Equity** = Balance + Summary P/L.
+        *Calculation*:	**Usable Margin** = Equity – Used Margin = Balance + Profit Summary – Used Margin.
 
-.. image:: /images/windows/account-information-panel/account-information-panel-6.png
-   :align: left
+|img-account-information-panel-8| **Profit Summary** – The P/L of all open positions;
 
-| **Used Margin** – The amount of money in your account that is currently used to keep positions open.
-| *Calculation*:	**Used Margin** = ∑(open positions) Margin.
+        *Calculation*:	**Profit Summary** = ∑(open positions) P/L.
 
-.. image:: /images/windows/account-information-panel/account-information-panel-7.png
-   :align: left
-
-| **Usable Margin** – The amount that is currently available to open new positions; note that if you are gaining or losing on an open positions, the amount of usable margin will differ accordingly;
-| *Calculation*:	**Usable Margin** = Equity – Used Margin = Balance + Profit Summary – Used Margin.
-
-.. image:: /images/windows/account-information-panel/account-information-panel-8.png
-   :align: left
-
-| **Profit Summary** – The P/L of all open positions;
-| *Calculation*:	**Profit Summary** = ∑(open positions) P/L.
+.. |img-account-information-panel-2| image:: /images/windows/account-information-panel/account-information-panel-2.png
+.. |img-account-information-panel-3| image:: /images/windows/account-information-panel/account-information-panel-3.png
+.. |img-account-information-panel-4| image:: /images/windows/account-information-panel/account-information-panel-4.png
+.. |img-account-information-panel-5| image:: /images/windows/account-information-panel/account-information-panel-5.png
+.. |img-account-information-panel-6| image:: /images/windows/account-information-panel/account-information-panel-6.png
+.. |img-account-information-panel-7| image:: /images/windows/account-information-panel/account-information-panel-7.png
+.. |img-account-information-panel-8| image:: /images/windows/account-information-panel/account-information-panel-8.png
 
 
 Trading Panel
