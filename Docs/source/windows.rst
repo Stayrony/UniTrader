@@ -119,6 +119,8 @@ Closed Positions Window
 Pending Orders Window
 ---------------------
 
+.. _open-position-window:
+
 Open Positions Window
 ---------------------
 
@@ -131,5 +133,36 @@ Risk Exposure Window
 Instrument Information Window
 -----------------------------
 
+.. _marked-rates-window:
+
 Market Rates Window
 -------------------
+
+This window displays all the current rates for selling (Sell) or buying (Buy) the subscribed instrument.
+
+.. image:: /images/windows/marked-rates-window/marked-rates-window-1.png
+
+**Table Columns:**
+
+**Name** – Full name of the instrument.
+
+**Instrument** – The trading symbol. The base currency will come first, followed by the quoted currency.
+
+**Sell** – The current rate for selling (at the bid). The green arrows show up ticks, and the red arrows show down ticks. You can sell by clicking on the bid price.
+
+**Buy** - The current rate for buying (ask). The green arrows show up ticks, and the red arrows shows down ticks. You may buy by clicking on the ask price.
+
+**Market** – The type of instrument listed (Forex, CFD etc).
+
+Market Operations
+^^^^^^^^^^^^^^^^^
+
+Create Order
+^^^^^^^^^^^^
+To «Create Order» you can click on the |img-marked-rates-window-2| buttons or select “Sell” or “Buy” from the popup menu (right-click on an instrument).
+
+.. |img-marked-rates-window-2| image:: /images/windows/marked-rates-window/marked-rates-window-2.png
+
+Create Entry Order
+^^^^^^^^^^^^^^^^^^
+To create «Entry Order» you can right-click on the instrument and select “Entry Sell” or “Entry Buy” from pop-up menu.
