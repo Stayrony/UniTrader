@@ -63,19 +63,31 @@ The Information Panel displays current information regarding the usage of your f
 
 |img-account-information-panel-5| **Equity** – Displays the balance taking into account profit and loss on all open positions.
 
-        *Calculation*:	**Equity** = Balance + Summary P/L.
+        **Calculation**:
+        
+        :math:`Equity = Balance + Summary P/L`.
 
 |img-account-information-panel-6| **Used Margin** – The amount of money in your account that is currently used to keep positions open.
 
-        *Calculation*:	**Used Margin** = ∑(open positions) Margin.
+        **Calculation**:
+
+        :math:`Used Margin = ∑(open positions) Margin`.
 
 |img-account-information-panel-7| **Usable Margin** – The amount that is currently available to open new positions; note that if you are gaining or losing on an open positions, the amount of usable margin will differ accordingly;
 
-        *Calculation*:	**Usable Margin** = Equity – Used Margin = Balance + Profit Summary – Used Margin.
+        **Calculation**:
+
+        :math:`Usable Margin = Equity – Used Margin = Balance + Profit Summary – Used Margin`.
 
 |img-account-information-panel-8| **Profit Summary** – The P/L of all open positions;
 
-        *Calculation*:	**Profit Summary** = ∑(open positions) P/L.
+        **Calculation**:
+
+        :math:`Profit Summary** = ∑(open positions) P/L`.
+
+        .. math::
+
+          W^{3\beta}_{\delta_1 \rho_1 \sigma_2} \approx U^{3\beta}_{\delta_1 \rho_1}
 
 .. |img-account-information-panel-2| image:: /images/windows/account-information-panel/account-information-panel-2.png
 .. |img-account-information-panel-3| image:: /images/windows/account-information-panel/account-information-panel-3.png
