@@ -64,7 +64,7 @@ The Information Panel displays current information regarding the usage of your f
 |img-account-information-panel-5| **Equity** – Displays the balance taking into account profit and loss on all open positions.
 
         **Calculation**:
-        
+
         :math:`Equity = Balance + Summary P/L`.
 
 |img-account-information-panel-6| **Used Margin** – The amount of money in your account that is currently used to keep positions open.
@@ -83,7 +83,7 @@ The Information Panel displays current information regarding the usage of your f
 
         **Calculation**:
 
-        :math:`Profit Summary** = ∑(open positions) P/L`.
+        :math:`Profit Summary = ∑(open positions) P/L`.
 
         .. math::
 
