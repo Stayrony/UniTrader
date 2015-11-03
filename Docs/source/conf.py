@@ -34,7 +34,6 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.pngmath',
     'sphinx.ext.mathjax',
-    'rst2pdf.pdfbuilder',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -238,7 +237,7 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = None
+#latex_logo = '/nstatic/latex_logo.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
