@@ -71,19 +71,19 @@ The Information Panel displays current information regarding the usage of your f
 
         **Calculation**:
 
-        :math:`Used Margin = ∑(open positions) Margin`.
+        :math:`Used Margin = \sum (open positions) Margin`.
 
 |img-account-information-panel-7| **Usable Margin** – The amount that is currently available to open new positions; note that if you are gaining or losing on an open positions, the amount of usable margin will differ accordingly;
 
         **Calculation**:
 
-        :math:`Usable Margin = Equity – Used Margin = Balance + Profit Summary – Used Margin`.
+        :math:`Usable Margin = Equity - Used Margin = Balance + Profit Summary - Used Margin`.
 
 |img-account-information-panel-8| **Profit Summary** – The P/L of all open positions;
 
         **Calculation**:
 
-        :math:`Profit Summary = ∑(open positions) P/L`.
+        :math:`Profit Summary = \sum (open positions) P/L`.
 
         .. math::
 
